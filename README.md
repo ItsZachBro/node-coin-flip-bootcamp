@@ -1,3 +1,2 @@
-Node Coin Flip Game
-
-It came out pretty well. Who am I kidding- its adorable.
+npm start
+//runs server. current port is 2345
